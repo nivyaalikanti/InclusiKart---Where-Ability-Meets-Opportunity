@@ -1,0 +1,45 @@
+.story-detail { padding: 0 20px 40px; max-width: 1100px; margin: 0 auto; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+
+/* Hero (scoped to story-detail to avoid global conflicts) */
+.story-detail .hero { position: relative; height: 160px; border-radius: 12px; overflow: hidden; margin-top: 20px; }
+.story-detail .hero-overlay { position: absolute; inset: 0; background: linear-gradient(120deg, rgba(59,130,246,0.08), rgba(14,165,233,0.06)); backdrop-filter: blur(2px); }
+.story-detail .hero-content { position: relative; padding: 28px 24px; }
+.story-detail .hero-title { font-size: 1.6rem; margin: 0; color: #0f172a; font-weight: 700; text-shadow: none; box-shadow: none; }
+.story-detail .hero-sub { margin: 6px 0 0; color: #475569; }
+
+.story-card { background: white; margin-top: -48px; border-radius: 12px; box-shadow: 0 10px 30px rgba(2,6,23,0.08); padding: 18px; }
+.story-header { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.author-card { display:flex; align-items:center; gap:12px; }
+.avatar { width:56px; height:56px; border-radius:50%; background: linear-gradient(135deg,#7c3aed,#06b6d4); color:white; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:1.1rem; box-shadow: 0 6px 18px rgba(59,130,246,0.14); }
+.author-name { font-weight:700; color:#0f172a; }
+.author-meta { font-size:0.85rem; color:#64748b; }
+.story-stats-inline { display:flex; gap:12px; color:#64748b; font-weight:600; }
+.story-stats-inline .stat { background:#f8fafc; padding:8px 10px; border-radius:8px; }
+
+.featured-media { margin-top:16px; border-radius:10px; overflow:hidden; box-shadow: 0 8px 30px rgba(2,6,23,0.06); /* floated layout for desktop */ float:left; width:40%; max-width:360px; margin-right:20px; }
+.featured-media img, .featured-media video { width:100%; height:auto; display:block; object-fit:contain; }
+
+/* Ensure story card clears floats so subsequent content doesn't collapse */
+.story-card::after { content: ""; display: table; clear: both; }
+
+.story-body { margin-top:18px; }
+.story-full-description { white-space: pre-wrap; line-height:1.8; color:#334155; font-size:1rem; }
+.story-tags { margin-top:14px; display:flex; gap:8px; flex-wrap:wrap; }
+.tag { background: linear-gradient(90deg,#eef2ff,#ecfeff); color:#0f172a; padding:8px 12px; border-radius:999px; font-size:0.85rem; font-weight:600; }
+
+.story-actions { margin-top:18px; display:flex; gap:10px; align-items:center; }
+.story-detail .btn { padding:10px 14px; border-radius:8px; border:none; cursor:pointer; font-weight:700; }
+.story-detail .btn.secondary { background:#eef2ff; color:#1e40af; text-decoration:none; display:inline-flex; align-items:center; gap:8px; }
+.story-detail .btn.primary-outline { background:transparent; border:2px solid #60a5fa; color:#2563eb; }
+
+@media (max-width: 768px) {
+	.hero { height: 140px }
+	.avatar { width:48px; height:48px }
+	.hero-title { font-size:1.25rem }
+	/* On small screens, stack media above content and make it full-width */
+	.featured-media { float:none; width:100%; max-width:100%; margin-right:0; margin-bottom:12px; }
+	.featured-media img, .featured-media video { object-fit:cover; height:180px; width:100%; }
+}
+.story-title{
+	padding-bottom: 50px;
+}
