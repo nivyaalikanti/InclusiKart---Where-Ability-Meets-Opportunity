@@ -1,6 +1,6 @@
 # InclusiKart - Where Ability Meets Opportunity
 An inclusive digital platform that empowers persons with disabilities to earn independently by selling verified products, sharing stories, and accessing support services.
-The platform connects disabled creators, buyers, NGOs, and administrators in a secure, inclusive, and accessible ecosystem.
+InclusiKart features voice-enabled navigation and multilingual support to ensure accessible interaction for users with diverse abilities, while connecting disabled creators, buyers, NGOs, and administrators in a secure and inclusive ecosystem.
 
 ---
 
@@ -14,7 +14,7 @@ Many talented individuals with disabilities lack access to digital platforms to 
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 ### User (Seller)
 
@@ -52,7 +52,7 @@ Many talented individuals with disabilities lack access to digital platforms to 
 ---
 
 
-## 🧠 Accessibility Features
+##  Accessibility Features
 
 * Voice navigation for hands-free interaction
 * Simple and clean UI for easy navigation
