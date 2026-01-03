@@ -1,0 +1,111 @@
+{
+  "open home": {
+    "path": "/",
+    "roles": ["guest", "buyer", "seller", "admin", "ngo"]
+  },
+  "open shop": {
+    "path": "/shop",
+    "roles": ["guest", "buyer", "seller", "admin", "ngo"]
+  },
+  "open stories": {
+    "path": "/stories",
+    "roles": ["guest", "buyer", "seller", "admin", "ngo"]
+  },
+  "open support": {
+    "path": "/support",
+    "roles": ["guest", "buyer", "seller", "admin", "ngo"]
+  },
+
+  "open login": {
+    "path": "/login",
+    "roles": ["guest", "buyer", "seller", "admin", "ngo"]
+  },
+  "open register": {
+    "path": "/register",
+    "roles": ["guest", "buyer", "seller", "admin", "ngo"]
+  },
+
+  "open buyer dashboard": {
+    "path": "/buyer/dashboard",
+    "roles": ["buyer"]
+  },
+  "open cart": {
+    "path": "/buyer/cart",
+    "roles": ["buyer"]
+  },
+  "view my orders": {
+    "path": "/buyer/orders",
+    "roles": ["buyer"]
+  },
+
+  "open seller dashboard": {
+    "path": "/seller/dashboard",
+    "roles": ["seller"]
+  },
+  "complete profile verification": {
+    "path": "/seller/profile-verification",
+    "roles": ["seller"]
+  },
+  "manage products": {
+    "path": "/seller/products",
+    "roles": ["seller"]
+  },
+  "add new product page": {
+    "path": "/seller/products/add",
+    "roles": ["seller"]
+  },
+  "view seller orders": {
+    "path": "/seller/orders",
+    "roles": ["seller"]
+  },
+  "view customer requests": {
+    "path": "/seller/requests",
+    "roles": ["seller"]
+  },
+  "view sales reports": {
+    "path": "/seller/reports",
+    "roles": ["seller"]
+  },
+  "share a story": {
+    "path": "/seller/stories/share",
+    "roles": ["seller"]
+  },
+  "manage my stories": {
+    "path": "/seller/stories/manage",
+    "roles": ["seller"]
+  },
+  "request help": {
+    "path": "/seller/help-request",
+    "roles": ["seller"]
+  },
+
+  "open admin dashboard": {
+    "path": "/admin/dashboard",
+    "roles": ["admin"]
+  },
+  "verify seller profiles": {
+    "path": "/admin/verifications",
+    "roles": ["admin"]
+  },
+  "verify products": {
+    "path": "/admin/products",
+    "roles": ["admin"]
+  },
+  "verify stories": {
+    "path": "/admin/stories",
+    "roles": ["admin"]
+  },
+
+  "open ngo login": {
+    "path": "/ngo/login",
+    "roles": ["guest"]
+  },
+  "open ngo dashboard": {
+    "path": "/ngo/dashboard",
+    "roles": ["ngo"]
+  },
+  "view ngo requests": {
+    "path": "/ngo/requests",
+    "roles": ["ngo"]
+  }
+}

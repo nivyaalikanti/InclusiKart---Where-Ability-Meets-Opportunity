@@ -1,0 +1,188 @@
+{
+    
+  "home": "nav-link-home",
+  "shop": "nav-link-shop",
+  "stories": "nav-link-stories",
+  "dashboard": "nav-link-dashboard",
+  "cart": "nav-link-cart",
+  "login": "nav-link-login",
+  "register": "nav-link-register",
+  "logout": "logout-btn",
+  "open menu": "nav-toggle",
+
+
+
+  "explore handcrafted treasures": "btn-explore-shop",
+  "start your journey": "btn-start-journey",
+  "image one": "indicator-0",
+  "image two": "indicator-1",
+  "image three": "indicator-2",
+  "image four": "indicator-3",
+  "image five": "indicator-4",
+  "continue your impact journey": "btn-continue-impact",
+  "manage your creations": "btn-manage-creations",
+  "start selling today": "btn-start-selling",
+  "discover artisan stories": "btn-discover-stories",
+
+
+
+
+  
+  "select buyer role": "role-selector-buyer",
+  "select seller role": "role-selector-seller",
+  "select admin role": "role-selector-admin",
+  "enter login email": "email",
+  "enter login password": "password",
+  "toggle password visibility": "password-toggle",
+  "sign in": "submit-button",
+  "sign in please": "submit-button",
+  "click sign in": "submit-button",
+  "click on sign in": "submit-button",
+  "click sign in please": "submit-button",
+  "forgot password": "forgot-password-link",
+  "go to register": "create-account-link",
+
+
+
+
+
+
+  
+  "username": "username",
+  "email": "email",
+  "shop and buy": "role-buyer",
+  "sell products": "role-seller",
+  "full name": "fullName",
+  "date of birth": "dateOfBirth",
+  "disability type": "disabilityType",
+  "phone number": "phoneNumber",
+  "address": "address",
+  "password": "password",
+  "show password": "password-toggle",
+  "confirm password": "confirmPassword",
+  "show confirm password": "confirm-password-toggle",
+  "create account": "submit-button",
+  "sign in here": "submit-button",
+
+
+
+
+
+  
+  "account holder name": "accountHolderName",
+  "account number": "accountNumber",
+  "bank name": "bankName",
+  "ifsc code": "ifscCode",
+  "branch": "branch",
+  "view current certificate": "btn-view-certificate",
+  "upload disability certificate": "file-upload",
+  "submit for verification": "btn-submit-verification",
+
+
+
+  
+  "complete verification": "btn-complete-verification",
+  "manage products": "action-manage-products",
+  "manage stories": "action-manage-stories",
+  "view orders": "action-view-orders",
+  "customer requests": "action-customer-requests",
+  "share story": "action-share-story",
+  "sales reports": "action-sales-reports",
+  "request help": "action-request-help",
+  "view all orders": "link-view-all-orders",
+
+
+
+
+  
+  "product name": "name",
+  "description": "description",
+  "category": "category",
+  "price": "price",
+  "quantity": "quantity",
+  "materials used": "materialsUsed",
+  "tags": "tags",
+  "dimensions length": "dimensions-length",
+  "dimensions width": "dimensions-width",
+  "dimensions height": "dimensions-height",
+  "dimensions unit": "dimensions-unit",
+  "weight value": "weight-value",
+  "weight unit": "weight-unit",
+  "upload product images": "file-upload",
+  "cancel": "btn-cancel",
+  "add product": "btn-add-product",
+
+
+
+
+  
+  "add new product": "btn-add-new-product",
+  "filter all products": "filter-all",
+  "pending": "filter-pending",
+  "approved": "filter-approved",
+  "rejected": "filter-rejected",
+  "add your first product": "btn-add-first-product",
+  "edit product two": "btn-edit-1",
+  "delete product two": "btn-delete-1",
+  "edit product three": "btn-edit-2",
+  "delete product three": "btn-delete-2",
+  "edit product four": "btn-edit-3",
+  "delete product four": "btn-delete-3",
+  "edit product five": "btn-edit-4",
+  "delete product five": "btn-delete-4",
+  "edit product six": "btn-edit-5",
+  "delete product six": "btn-delete-5",
+  "edit product seven": "btn-edit-6",
+  "delete product seven": "btn-delete-6",
+  "edit product eight": "btn-edit-7",
+  "delete product eight": "btn-delete-7",
+  "edit product nine": "btn-edit-8",
+  "delete product nine": "btn-delete-8",
+  "edit product ten": "btn-edit-9",
+  "delete product ten": "btn-delete-9",
+  "previous products page": "pagination-prev",
+  "next products page": "pagination-next",
+
+  
+
+
+
+  "filter all orders": "order-filter-all",
+  "filter pending orders": "order-filter-pending",
+  "filter confirmed orders": "order-filter-confirmed",
+  "filter shipped orders": "order-filter-shipped",
+  "filter delivered orders": "order-filter-delivered",
+  "confirm order": "btn-confirm-order",
+  "cancel order": "btn-cancel-order",
+  "mark as shipped": "btn-mark-shipped",
+  "mark as delivered": "btn-mark-delivered",
+
+
+
+
+  
+  "search products": "shop-search-input",
+  "search button": "shop-search-btn",
+  "filter by category": "filter-category",
+  "sort products": "filter-sort",
+  "open product one": "product-card-1",
+  "open product two": "product-card-2",
+  "open product three": "product-card-3",
+  "open product four": "product-card-4",
+  "open product five": "product-card-5",
+  "open product six": "product-card-6",
+  "open product seven": "product-card-7",
+  "open product eight": "product-card-8",
+  "open product nine": "product-card-9",
+  "open product ten": "product-card-10",
+  "open product eleven": "product-card-11",
+  "open product twelve": "product-card-12",
+  "previous shop page": "shop-pagination-prev",
+  "next shop page": "shop-pagination-next"
+
+
+
+
+
+  
+}
