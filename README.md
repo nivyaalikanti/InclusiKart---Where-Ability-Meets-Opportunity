@@ -47,6 +47,10 @@ Many talented individuals with disabilities lack access to digital platforms to 
 -----
 
 ## Voice Navigation Architecture: RAG-Powered Command Processing
+![Voice Navigation Architecture](./VOICE NAVIGATION.png)
+---
+
+Watch the demo here:  https://drive.google.com/file/d/1WntAv3C5LM_X9vN6_nYecmi7o4J5DiwY/view?usp=sharing
 
 ### 1. Ingestion Pipeline
 * **Source Files:** Ingests raw configuration data from `ui_elements`, `global_actions`, and `routes` JSON files.
