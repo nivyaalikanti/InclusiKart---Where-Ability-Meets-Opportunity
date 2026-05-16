@@ -45,7 +45,7 @@ Many talented individuals with disabilities lack access to digital platforms to 
 * Multilingual Support
 
 -----
-
+<!-- 
 ## Voice Navigation Architecture: RAG-Powered Command Processing
 ![Voice Navigation Architecture](./voice-navigation.png)
 ---
@@ -69,6 +69,7 @@ Watch the demo here:  https://drive.google.com/file/d/1WntAv3C5LM_X9vN6_nYecmi7o
 * **Execution:** The system parses the JSON output and instantly triggers the corresponding navigation or UI action within the app.
 
 ---
+-->
 
 ## Tech Stack
 
